@@ -1,4 +1,3 @@
-from collections import deque
 from sys import stdin
 
 file = stdin
